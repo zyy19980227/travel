@@ -1,0 +1,102 @@
+{
+  "ret": true,
+  "data": {
+    "city": "苏州",
+    "swiperList": [{
+        "id": "0001",
+        "imgUrl": "//mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20198/b59b8db9f72eb8f54df5bf2155672e9c.jpg"
+      },{
+        "id": "0002",
+        "imgUrl": "//mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20199/76e68eda4ed089c0e5b0ce2367efe428.jpg"
+      },{
+        "id": "0003",
+        "imgUrl": "//mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20199/387c5e767cccc7a3172ed7ea15b50727.png"
+      },{
+        "id": "0004",
+        "imgUrl": "//mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/201910/abe3418971067bd655fb2794d6e2eeec.jpg"
+      },{
+        "id": "0005",
+        "imgUrl": "//mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20197/3f5ff03fa0c024b930f515e63ae2c702.jpg_945x288_7dff4510.jpg"
+      }],
+    "iconList": [{
+        "id": "0001",
+        "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/hotel.png",
+        "desc": "酒店"
+      }, {
+        "id": "0002",
+        "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/flight.png",
+        "desc": "机票"
+      }, {
+        "id": "0003",
+        "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/package.png",
+        "desc": "度假"
+      }, {
+        "id": "0004",
+        "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/train.png",
+        "desc": "高铁票"
+      }, {
+        "id": "0005",
+        "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/innBnb.png",
+        "desc": "民宿客栈"
+      }, {
+        "id": "0006",
+        "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/bargainflight.png",
+        "desc": "低价机票"
+      }, {
+        "id": "0007",
+        "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/group.png",
+        "desc": "特惠酒店"
+      }, {
+        "id": "0008",
+        "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/haiwai.png",
+        "desc": "海外酒店"
+      }, {
+        "id": "0009",
+        "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/piao.png",
+        "desc": "景点门票"
+      }],
+    "recommendList": [{
+        "id": "0001",
+        "imgUrl": "//img1.qunarzz.com/sight/p0/1603/85/85aa0c000578a01e90.water.jpg_256x160_649a8b35.jpg",
+        "title": "拙政园",
+        "desc": "庭院错落，花木为胜，天下园林之典范"
+      }, {
+        "id": "0002",
+        "imgUrl": "//img1.qunarzz.com/sight/p0/1707/33/33c133cf198d092aa3.water.jpg_256x160_4bf46a1c.jpg",
+        "title": "虎丘",
+        "desc": "苏东坡说到苏州不游虎丘乃憾事也"
+      }, {
+        "id": "0003",
+        "imgUrl": "//img1.qunarzz.com/sight/p18/201211/03/db9f2bb27ee40bf893835fbb.jpg_256x160_584a5d70.jpg",
+        "title": "美龄宫",
+        "desc": "一幢中国宫殿式大屋顶建筑，富丽堂皇"
+      }, {
+        "id": "0004",
+        "imgUrl": "//img1.qunarzz.com/sight/p0/1503/38/3806235c8444b759.water.jpg_256x160_4c36c351.jpg",
+        "title": "周庄",
+        "desc": "古香古色，品美食寻才子觅佳人"
+      }, {
+        "id": "0005",
+        "imgUrl": "//tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/6ff48e0e00432f823bf593deec6d3397.jpg",
+        "title": "寒山寺",
+        "desc": "姑苏城外寒山寺，夜半钟声到客船"
+      }],
+    "weekendList": [{
+        "id": "0001",
+        "imgUrl": "//tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/6ff48e0e00432f823bf593deec6d3397.jpg",
+        "desc": "美帝的美，留在图里也要藏在心底"
+      }, {
+        "id": "0002",
+        "imgUrl": "//tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/729fced755d522ccfc280ef155f45518.jpg",
+        "desc": "在秘密花园，领略意大利风情"
+      }, {
+        "id": "0003",
+        "imgUrl": "//tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/e86b37fef48851353d6f5ae0090cc974.jpg",
+        "desc": "带着相机去旅行，圆一场青海梦"
+      }, {
+        "id": "0004",
+        "imgUrl": "//tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/24d074328b5a26845ebb92be20b38754.jpg",
+        "desc": "陪你去三亚，陪你去天涯海角"
+      }]
+  }
+}
