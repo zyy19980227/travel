@@ -1,0 +1,25 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "拙政园5A景区",
+    "bannerImg": "https://imgs.qunarzz.com/sight/p0/1603/85/85aa0c000578a01e90.water.jpg_710x360_4621c512.jpg",
+    "gallaryImgs": ["https://imgs.qunarzz.com/sight/p0/201405/27/62b6c624ceda06cc786a870769bf8ddc.jpg_990x390_a3b5da1b.jpg", "https://imgs.qunarzz.com/sight/p0/201305/21/63767a6ddf5dbd36c8d65eac.jpg_990x390_973fe4bd.jpg"],
+    "categoryList": [{
+        "title": "成人票",
+        "children": [{
+          "title": "成人三馆联票",
+          "children": [{
+            "title": "成人三馆联票 - 某一连锁店销售"
+          }]
+        },{
+          "title": "成人五馆联票"
+        }]
+      }, {
+        "title": "学生票"
+      }, {
+        "title": "儿童票"
+      }, {
+        "title": "特惠票"
+      }]
+  }
+}
