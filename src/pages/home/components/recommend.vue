@@ -2,14 +2,14 @@
     <div>
         <div class="title">当季景点推荐</div>
         <ul>
-            <li class="item" v-for="item of list" :key="item.id">
+            <router-link tag="li" class="item" v-for="item of list" :key="item.id" :to="'/detail/' + item.id">
                 <img class="item-img" :src="item.imgUrl" alt="">
                 <div class="item-info">
                     <p class="item-title">{{item.title}}</p>
                     <p class="item-desc">{{item.desc}}</p>
                     <button class="item-button">查看详情</button>
                 </div>
-            </li>
+            </router-link>
         </ul>
     </div>
 </template>
@@ -56,8 +56,12 @@ export default {
             .item-button
                 line-height 22px
                 margin-top 8px
-                background #ff9300
+                background #44c767
                 padding 0 10px
-                border-radius 3px
+                border-radius 12px
                 color #fff
+                border: solid #18ab29 1px
+            .item-button:hover
+                color: #ffffff
+                background: #5cbf2a
 </style>
