@@ -47,7 +47,7 @@ export default {
   overflow: hidden;
   position: relative;
   height: 0;
-  padding-bottom: 55%;
+  padding-bottom: 51%;
 
   .banner-img {
     width: 100%;
@@ -58,7 +58,7 @@ export default {
     position: absolute;
     left: 0;
     right: 0;
-    bottom: 16px;
+    bottom: 0;
     line-height: 30px;
     color: #fff;
     background-image: linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.8));
