@@ -37,10 +37,10 @@ export default {
       }
     }
   },
-  activated () {
+  mounted () {
     window.addEventListener('scroll', this.handleScroll)
   },
-  deactivated () { // 全局事件解绑
+  unmounted () { // 全局事件解绑
     window.removeEventListener('scroll', this.handleScroll)
   }
 }
